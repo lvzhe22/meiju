@@ -13,7 +13,15 @@ var pool = [
 "The Walking Dead",
 "Breaking Bad",
 "12 Monkeys",
-"Togetherness"
+"Togetherness",
+"Banshee",
+"Bates Motel",
+"Masters Of Sex",
+"Ray Donovan",
+"Rectify",
+"The Americans",
+"Under The Dome",
+"Vikings"
 ];
 
 function randomIntInc (low, high) {
