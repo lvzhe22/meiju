@@ -15,4 +15,14 @@ var pool = [
 "12 Monkeys",
 "Togetherness"
 ];
-console.log(pool[Math.floor(Math.random() * pool.length)]);
+
+function randomIntInc (low, high) {
+    return Math.floor(Math.random() * (high - low + 1) + low);
+}
+
+var numbers = new Array(pool.length);
+for (var i = 0; i < numbers.length; i++) {
+    numbers[i] = randomIntInc(0, pool.length-1);
+}
+
+console.log(pool[numbers[randomIntInc(0, pool.length-1)]]);
