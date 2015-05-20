@@ -21,7 +21,10 @@ var pool = [
 "Rectify",
 "The Americans",
 "Under The Dome",
-"Vikings"
+"The Night Shift",
+"Vikings",
+"Marvel's Agents of S.H.I.E.L.D.",
+"You're The Worst"
 ];
 
 function randomIntInc (low, high) {
