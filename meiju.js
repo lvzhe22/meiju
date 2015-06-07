@@ -12,7 +12,6 @@ var pool = [
 "Orphan Black",
 "The Walking Dead",
 "Breaking Bad",
-"12 Monkeys",
 "Togetherness",
 "Banshee",
 "Bates Motel",
