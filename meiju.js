@@ -24,6 +24,11 @@ var pool = [
 "Vikings",
 "Marvel's Agents of S.H.I.E.L.D.",
 "Daredevil",
+"Da Vinci's Demons",
+"Legends",
+"Hannibal",
+"Sleepy Hollow",
+"Graceland",
 "You're The Worst"
 ];
 
