@@ -23,6 +23,7 @@ var pool = [
 "The Night Shift",
 "Vikings",
 "Marvel's Agents of S.H.I.E.L.D.",
+"Daredevil",
 "You're The Worst"
 ];
 
