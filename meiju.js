@@ -17,7 +17,6 @@ var pool = [
 "Bates Motel",
 "Masters Of Sex",
 "Ray Donovan",
-"Rectify",
 "The Americans",
 "Under The Dome",
 "The Night Shift",
