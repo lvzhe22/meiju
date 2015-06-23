@@ -25,7 +25,6 @@ var pool = [
 "Daredevil",
 "Da Vinci's Demons",
 "Legends",
-"Hannibal",
 "Sleepy Hollow",
 "Graceland",
 "You're The Worst"
