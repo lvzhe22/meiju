@@ -26,7 +26,7 @@ var pool = [
 "Da Vinci's Demons",
 "Legends",
 "Sleepy Hollow",
-"Graceland",
+"Sense 8",
 "You're The Worst"
 ];
 
